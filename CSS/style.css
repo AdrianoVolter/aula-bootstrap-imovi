@@ -6,7 +6,7 @@
     background-color: #fff;
 }
 
-.bg-secundary-color {
+.bg-secondary-color {
     background-color: #ece8ea;
 }
 
@@ -19,7 +19,7 @@
 
 }
 
-.secundary-color {
+.secondary-color {
     color: #7a7a7a;
 }
 
@@ -231,6 +231,67 @@
 }
 
 
-/*----Infos-----*/
+/*----Infos  1:06:44 min   -----*/
+
+
+#info-content {
+    margin-bottom: 4em;
+    padding: 4em 1em;
+    
+
+}
+
+
+#info-numbers {
+    margin: 1.5em 0;
+    
+}
+
+#info-banner {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2.5em;
+
+}
+
+@media(min-width: 768px) {
+    #info-content {
+        padding: 3.5em;
+    }
+}
+
+
+/*   Footer TOP  */
+
+
+#footer{
+    padding: 3em 2em;
+
+}
+
+#footer-top {
+    margin-bottom: 2em;
+}
+
+#footer-top,
+#footer-top i {
+    color: #fff;
+}
+
+
+#social-icons {
+    text-align: right;
+}
+
+#social-icons i {
+    margin-right: 1em;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+
+#social-icons i:hover {
+    color: #7a7a7a;
+}
 
 
